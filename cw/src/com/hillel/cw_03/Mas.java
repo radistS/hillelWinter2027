@@ -39,5 +39,8 @@ public class  Mas {
         for (int i : mass1) {
             System.out.print(i + " ");
         }
+
+        String[] str = new String[10];
+
     }
 }
