@@ -3,6 +3,7 @@ package com.hillel.cw_05.clone;
 
 import com.hillel.cw_05.Pet;
 
+//public class CloneTest {
 public class CloneTest implements Cloneable{
 
     Integer i = 0;
@@ -22,7 +23,7 @@ public class CloneTest implements Cloneable{
         return ct;
     }
 
-    // shallow
+//     shallow
 //    @Override
 //    protected CloneTest clone() throws CloneNotSupportedException {
 //        return (CloneTest) super.clone();

@@ -8,7 +8,7 @@ public class Transport implements Logger {
         System.out.println("Transport : " + timetable + " ... " + msg);
     }
 
-    @Override
+
     public String xxx() {
         return null;
     }

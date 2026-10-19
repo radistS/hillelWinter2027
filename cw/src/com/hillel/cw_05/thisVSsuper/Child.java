@@ -6,14 +6,13 @@ public class Child extends Parent {
     private int age;
 
     public Child(String fName, String lName, String mName, String faName) {
-        super(fName, lName);
         this.mName = mName;
         this.faName = faName;
+        super(fName, lName);
         System.out.println("child : (fName, lName, mName, faName)");
     }
 
     public Child(String fName, String lName) {
-       this();
        this.setfName(fName);
        this.setlName(lName);
     }

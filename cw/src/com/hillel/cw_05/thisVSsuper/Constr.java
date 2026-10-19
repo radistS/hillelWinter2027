@@ -1,11 +1,17 @@
 package com.hillel.cw_05.thisVSsuper;
 
+//public class Constr {
+//    public static void main(String[] args) {
+//        D d = new D();
+//    }
+//}
+
+
 public class Constr {
     public static void main(String[] args) {
-        D d = new D();
+        B d = new B();
     }
 }
-
 class A {
     public A() {
         System.out.println("A");

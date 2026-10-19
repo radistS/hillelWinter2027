@@ -1,6 +1,8 @@
 package com.hillel.cw_05.absrt;
 
 public abstract class Human {
+
+    public static String className = "Human";
     private String name;
     private int age;
 

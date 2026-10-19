@@ -11,7 +11,6 @@ public class Teacher extends Human {
         this.salary = salary;
     }
 
-    @Override
     void print() {
 
     }

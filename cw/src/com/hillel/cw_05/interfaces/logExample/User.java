@@ -8,7 +8,7 @@ public class User implements Logger {
         System.out.println("User : " + fullName + " ... " + msg);
     }
 
-    @Override
+
     public String xxx() {
         System.out.println("nothing do...");
         return null;

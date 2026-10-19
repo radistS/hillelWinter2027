@@ -5,9 +5,11 @@ public class Task4 {
         int x = 10, y = 15;
         String result = (x > y)
             ? "x больше y"
-            : ((x < y)
+            : (
+                (x < y)
                 ? "x меньше y"
-                : "x равен y");
+                : "x равен y"
+                );
         System.out.println(result);
     }
 }

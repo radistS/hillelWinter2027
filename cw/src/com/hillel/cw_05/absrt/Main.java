@@ -2,28 +2,32 @@ package com.hillel.cw_05.absrt;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println(Human.className);
 
-        Human h = new Human() {
+        Human hm = new Human() {
             @Override
             void print() {
-                System.out.println("human");
+                System.out.println("Hello from anonymous class");
             }
         };
 
-        h.print();
-        System.out.println("---------------");
+        hm.setName("John");
+        hm.setAge(30);
+        hm.print();
+        System.out.println(hm.toString());
 
-        Student student = new Student();
-        student.setName("Ivan Ivanov");
-        student.setAge(18);
-        student.setGroup("qwerty");
+        new MyClass().print().print();
+    }
+}
 
-        Teacher teacher = new Teacher();
-        teacher.setName("Mariya Ivanovna");
-        teacher.setSalary(100000);
-        teacher.setAge(45);
-
-        System.out.println(student);
-        System.out.println(teacher);
+class MyClass  {
+    public Human print(){
+        Human hm = new Human() {
+            @Override
+            void print() {
+                System.out.println("Hello from MyClass class");
+            }
+        };
+        return hm;
     }
 }

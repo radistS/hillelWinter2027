@@ -20,7 +20,7 @@ public class Rus implements Say, Logger {
 
     }
 
-    @Override
+
     public String xxx() {
         return "dzfgdfhdfgjn";
     }

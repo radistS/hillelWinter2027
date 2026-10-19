@@ -11,7 +11,7 @@ public class Student extends Human {
         this.group = group;
     }
 
-    @Override
+
     void print() {
 
     }
