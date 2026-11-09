@@ -1,0 +1,445 @@
+[D] : cw
+--[F] : cw.iml size: 0.00040340 mb
+--[D] : src
+----[D] : com
+------[D] : hillel
+--------[D] : cw_01
+----------[F] : GitIgn.java size: 0.00010014 mb
+----------[F] : Main.java size: 0.00029755 mb
+--------[D] : cw_02
+----------[F] : AssigmentOper.java size: 0.00097752 mb
+----------[F] : Comments.java size: 0.00052071 mb
+----------[F] : HW.java size: 0.00012779 mb
+----------[F] : HelloWorld.java size: 0.00048542 mb
+----------[F] : Increment.java size: 0.00041199 mb
+----------[F] : InitVar.java size: 0.00069904 mb
+----------[F] : Input.java size: 0.00046349 mb
+----------[F] : InputValues.java size: 0.00034142 mb
+----------[F] : JavaTypesPrim.java size: 0.00109386 mb
+----------[F] : LogicOperation.java size: 0.00160027 mb
+----------[F] : MathOper.java size: 0.00085449 mb
+----------[F] : MultyClass.java size: 0.00041580 mb
+----------[F] : NameExample.java size: 0.00066090 mb
+----------[F] : Variables.java size: 0.00052452 mb
+----------[D] : doubleMain
+------------[F] : Clazz1.java size: 0.00026703 mb
+------------[F] : Clazz2.java size: 0.00026608 mb
+--------[D] : cw_03
+----------[F] : Break.java size: 0.00055981 mb
+----------[F] : CeloeChastnoe.java size: 0.00050163 mb
+----------[F] : ContinueEx.java size: 0.00048828 mb
+----------[F] : ConvValue.java size: 0.00035381 mb
+----------[F] : DMAss.java size: 0.00132275 mb
+----------[F] : FF.java size: 0.00044537 mb
+----------[F] : ForEx.java size: 0.00017643 mb
+----------[F] : ForExample.java size: 0.00079155 mb
+----------[F] : IfElse.java size: 0.00129986 mb
+----------[F] : Main.java size: 0.00092220 mb
+----------[F] : Mas.java size: 0.00096416 mb
+----------[F] : Output.java size: 0.00042439 mb
+----------[F] : PrivType.java size: 0.00095463 mb
+----------[F] : ShortEx.java size: 0.00020981 mb
+----------[F] : SplitExample.java size: 0.00022411 mb
+----------[F] : Str.java size: 0.00030899 mb
+----------[F] : SwitchExample.java size: 0.00178528 mb
+----------[F] : TMAss.java size: 0.00073242 mb
+----------[F] : TestRun.java size: 0.00013542 mb
+----------[F] : TypePrived.java size: 0.00112152 mb
+----------[F] : WhileCounterExample.java size: 0.00042534 mb
+----------[F] : WhileEx.java size: 0.00058079 mb
+----------[F] : mod_dostupa.png size: 0.19123554 mb
+----------[D] : ex
+------------[F] : ArrMaxValue.java size: 0.00018215 mb
+------------[F] : ChetNumber.java size: 0.00048256 mb
+------------[F] : FizzBuzz.java size: 0.00037956 mb
+------------[F] : MaxFromtwo.java size: 0.00029755 mb
+------------[F] : Reverse.java size: 0.00022316 mb
+----------[D] : operators
+------------[F] : BitwiseOperators.java size: 0.00106430 mb
+------------[F] : LogOper.java size: 0.00085831 mb
+------------[F] : LogicalNot.java size: 0.00036144 mb
+------------[F] : LogicalOperators.java size: 0.00050831 mb
+------------[F] : NumberSystem.java size: 0.00041962 mb
+------------[F] : RelationalOperators.java size: 0.00069332 mb
+------------[F] : RoundExample.java size: 0.00047398 mb
+------------[F] : ShiftOperators.java size: 0.00149155 mb
+------------[F] : TernaryOperator.java size: 0.00065613 mb
+----------[D] : pack1
+------------[F] : Main.java size: 0.00027466 mb
+------------[F] : Test1.java size: 0.00041771 mb
+------------[F] : TestVision.java size: 0.00028419 mb
+----------[D] : pack2
+------------[F] : Main.java size: 0.00036526 mb
+------------[F] : Test2.java size: 0.00015640 mb
+----------[D] : task
+------------[F] : Task1.java size: 0.00031757 mb
+------------[F] : Task2.java size: 0.00021935 mb
+------------[F] : Task3.java size: 0.00017262 mb
+------------[F] : Task4.java size: 0.00044155 mb
+--------[D] : cw_04
+----------[F] : Box.java size: 0.00072765 mb
+----------[F] : Clazz.java size: 0.00053692 mb
+----------[F] : Customer.java size: 0.00046444 mb
+----------[F] : Example.java size: 0.00026321 mb
+----------[F] : ExampleObjectOverRun.java size: 0.00061321 mb
+----------[F] : ExampleObjectRun.java size: 0.00053692 mb
+----------[F] : ExampleOver.java size: 0.00054741 mb
+----------[F] : ExampleRun.java size: 0.00083065 mb
+----------[F] : FinClass.java size: 0.00009441 mb
+----------[F] : Konstr.java size: 0.00091457 mb
+----------[F] : KonstrMain.java size: 0.00032616 mb
+----------[F] : Main.java size: 0.00104523 mb
+----------[F] : MainStudent.java size: 0.00010395 mb
+----------[F] : MethodExample.java size: 0.00020123 mb
+----------[F] : Poli.java size: 0.00023270 mb
+----------[F] : Predmet.java size: 0.00056839 mb
+----------[F] : Run.java size: 0.00063419 mb
+----------[F] : SrtExample.java size: 0.00075722 mb
+----------[F] : Str.java size: 0.00026512 mb
+----------[F] : Student.java size: 0.00132561 mb
+----------[F] : StudentRun.java size: 0.00037670 mb
+----------[F] : SystemOutPrint.java size: 0.00025845 mb
+----------[F] : TestMain.java size: 0.00039101 mb
+----------[F] : User.java size: 0.00273800 mb
+----------[F] : UserRun.java size: 0.00029469 mb
+----------[F] : Wrapper.java size: 0.00035191 mb
+----------[F] : WrapperRun.java size: 0.00043583 mb
+----------[F] : Wrappers.java size: 0.00048351 mb
+----------[D] : animal
+------------[F] : Animal.java size: 0.00039577 mb
+------------[F] : Cat.java size: 0.00134373 mb
+------------[F] : Dog.java size: 0.00017452 mb
+------------[F] : MainAnimal.java size: 0.00127602 mb
+----------[D] : box
+------------[F] : Box.java size: 0.00073051 mb
+------------[F] : ModifyBox.java size: 0.00017262 mb
+------------[F] : Run.java size: 0.00017262 mb
+----------[D] : ex
+------------[F] : Fibonacci.java size: 0.00026703 mb
+------------[F] : FloorFlatCalculate.java size: 0.00049114 mb
+------------[F] : NaturalNumbers.java size: 0.00012589 mb
+------------[F] : Polindrom.java size: 0.00031567 mb
+----------[D] : fin
+------------[F] : Fin.java size: 0.00030422 mb
+------------[F] : FinalEx.java size: 0.00030708 mb
+------------[F] : IntfFinal.java size: 0.00008774 mb
+------------[F] : RunFin.java size: 0.00017262 mb
+----------[D] : st
+------------[F] : StRun.java size: 0.00045300 mb
+------------[F] : Student.java size: 0.00133324 mb
+------------[F] : ValidatorService.java size: 0.00015450 mb
+----------[D] : task
+------------[F] : Task1.java size: 0.00022411 mb
+------------[F] : Task2.java size: 0.00017071 mb
+------------[F] : Task3.java size: 0.00020599 mb
+------------[F] : Task4.java size: 0.00022125 mb
+------------[F] : Task5.java size: 0.00026989 mb
+--------[D] : cw_05
+----------[F] : Animal.java size: 0.00021839 mb
+----------[F] : Farm.java size: 0.00034523 mb
+----------[F] : MainPet.java size: 0.00068474 mb
+----------[F] : Pet.java size: 0.00059795 mb
+----------[F] : Stactic.java size: 0.00042629 mb
+----------[F] : Student.java size: 0.00005341 mb
+----------[F] : UserDto.java size: 0.00020313 mb
+----------[D] : absrt
+------------[F] : Human.java size: 0.00057888 mb
+------------[F] : Main.java size: 0.00068855 mb
+------------[F] : Student.java size: 0.00050545 mb
+------------[F] : Teacher.java size: 0.00049686 mb
+----------[D] : clas
+------------[F] : AC.java size: 0.00054359 mb
+------------[F] : IC.java size: 0.00115967 mb
+------------[F] : Logger.java size: 0.00008106 mb
+------------[F] : Main.java size: 0.00088882 mb
+------------[F] : OI.java size: 0.00071430 mb
+------------[F] : PrintInfo.java size: 0.00009060 mb
+------------[F] : SOI.java size: 0.00051117 mb
+----------[D] : clone
+------------[F] : CloneMain.java size: 0.00106144 mb
+------------[F] : CloneRun.java size: 0.00076580 mb
+------------[F] : CloneTest.java size: 0.00064850 mb
+----------[D] : ex
+------------[F] : Task1.java size: 0.00023556 mb
+------------[F] : Task2.java size: 0.00044060 mb
+------------[F] : Task3.java size: 0.00022125 mb
+------------[F] : Task4.java size: 0.00034714 mb
+----------[D] : interfaces
+------------[F] : Developer.java size: 0.00011253 mb
+------------[F] : Engl.java size: 0.00025082 mb
+------------[F] : FunctInt.java size: 0.00015259 mb
+------------[F] : FunctIntRun.java size: 0.00072289 mb
+------------[F] : MainLang.java size: 0.00060177 mb
+------------[F] : Rus.java size: 0.00051022 mb
+------------[F] : Say.java size: 0.00029945 mb
+------------[F] : SayHello.java size: 0.00017643 mb
+------------[D] : logExample
+--------------[F] : ExRun.java size: 0.00019550 mb
+--------------[F] : Logger.java size: 0.00026608 mb
+--------------[F] : Transport.java size: 0.00029659 mb
+--------------[F] : User.java size: 0.00032806 mb
+----------[D] : task
+------------[F] : ArmstrongNumber.java size: 0.00100899 mb
+------------[F] : Number.java size: 0.00124359 mb
+------------[F] : NumberRemover.java size: 0.00077152 mb
+------------[F] : PalindromeNumber.java size: 0.00089741 mb
+------------[F] : PusUp.java size: 0.00088882 mb
+------------[F] : SummTwo.java size: 0.00120544 mb
+----------[D] : thisVSsuper
+------------[F] : Ch.java size: 0.00039577 mb
+------------[F] : Child.java size: 0.00112152 mb
+------------[F] : Constr.java size: 0.00052357 mb
+------------[F] : GrPar.java size: 0.00012589 mb
+------------[F] : Main.java size: 0.00031757 mb
+------------[F] : MainSuper.java size: 0.00068569 mb
+------------[F] : Par.java size: 0.00015640 mb
+------------[F] : Parent.java size: 0.00081730 mb
+------------[F] : Recrun.java size: 0.00029850 mb
+------------[F] : Str.java size: 0.00012970 mb
+------------[F] : StrGen.java size: 0.00043297 mb
+--------[D] : cw_06
+----------[F] : tasks.txt size: 0.00302029 mb
+----------[D] : ex
+------------[F] : Ex1.java size: 0.00040913 mb
+------------[F] : Ex2.java size: 0.00035095 mb
+------------[F] : Ex3.java size: 0.00022030 mb
+------------[F] : Ex4.java size: 0.00033092 mb
+------------[F] : Ex5.java size: 0.00043774 mb
+----------[D] : gc
+------------[F] : Main.java size: 0.00222683 mb
+----------[D] : stack
+------------[D] : count
+--------------[F] : Main.java size: 0.00060081 mb
+----------[D] : task
+------------[F] : ArmstrongNumber.java size: 0.00080872 mb
+------------[F] : From1to100.java size: 0.00055122 mb
+------------[F] : NumberRemover.java size: 0.00033283 mb
+------------[F] : Pus.java size: 0.00012589 mb
+------------[F] : PusUp.java size: 0.00088596 mb
+------------[F] : SummTwo.java size: 0.00084305 mb
+------------[F] : Triangle.java size: 0.00114155 mb
+--------[D] : cw_07
+----------[F] : Remover.java size: 0.00060844 mb
+----------[D] : ex
+------------[F] : Ex1.java size: 0.00022507 mb
+------------[F] : Ex2.java size: 0.00036526 mb
+------------[F] : Ex3.java size: 0.00042248 mb
+------------[F] : Ex5.java size: 0.00025654 mb
+----------[D] : str
+------------[F] : CreateString.java size: 0.00199699 mb
+------------[F] : StrBuilder.java size: 0.00065422 mb
+------------[F] : StrFormat.java size: 0.00020790 mb
+------------[F] : StrOperation.java size: 0.00229549 mb
+------------[F] : StrPull.java size: 0.00060177 mb
+------------[F] : StringEmpty.java size: 0.00021458 mb
+----------[D] : task
+------------[F] : Compress.java size: 0.00122547 mb
+------------[F] : FileService.java size: 0.00045967 mb
+------------[F] : SmartTrim.java size: 0.00093746 mb
+------------[F] : SumNumbersInString.java size: 0.00138474 mb
+------------[F] : TextToCamelCase.java size: 0.00069714 mb
+------------[F] : string_tasks_ua.md size: 0.00286865 mb
+--------[D] : cw_08
+----------[F] : Div.java size: 0.00022697 mb
+----------[F] : TCexp.java size: 0.00069809 mb
+----------[F] : Test.java size: 0.00013351 mb
+----------[D] : H_E
+------------[F] : Equals.java size: 0.00170898 mb
+------------[F] : GE_dif.java size: 0.00102520 mb
+------------[F] : HC.java size: 0.00125313 mb
+------------[F] : HE.java size: 0.00114918 mb
+------------[F] : Main.java size: 0.00009918 mb
+------------[F] : Student.java size: 0.00064373 mb
+----------[D] : converter
+------------[F] : CaseStyle.java size: 0.00030136 mb
+------------[F] : Main.java size: 0.00028229 mb
+------------[F] : TextConverter.java size: 0.00177002 mb
+----------[D] : enumer
+------------[F] : EnumRun.java size: 0.00030994 mb
+------------[F] : Main.java size: 0.00133514 mb
+------------[F] : Operation.java size: 0.00047207 mb
+------------[F] : OperationRun.java size: 0.00040054 mb
+------------[F] : SearchSystem.java size: 0.00080490 mb
+------------[F] : SearchSystemRun.java size: 0.00050545 mb
+------------[F] : Test.java size: 0.00017166 mb
+------------[F] : User.java size: 0.00086117 mb
+------------[F] : UserStatus.java size: 0.00013638 mb
+------------[F] : UserStatusRun.java size: 0.00096703 mb
+----------[D] : ex
+------------[F] : Ex1.java size: 0.00044441 mb
+------------[F] : Ex3.java size: 0.00041485 mb
+------------[F] : Ex4.java size: 0.00069618 mb
+------------[F] : Ex5.java size: 0.00083256 mb
+------------[F] : Ex6.java size: 0.00054073 mb
+------------[F] : RedWood.java size: 0.00037289 mb
+----------[D] : except
+------------[F] : BussinesException.java size: 0.00018597 mb
+------------[F] : BussinesException1.java size: 0.00016499 mb
+------------[F] : CloseExample.java size: 0.00065899 mb
+------------[F] : Doublereturn.java size: 0.00027466 mb
+------------[F] : ExRun.java size: 0.00033283 mb
+------------[F] : TC.java size: 0.00061226 mb
+------------[F] : TCCCC.java size: 0.00062370 mb
+------------[F] : TF.java size: 0.00051308 mb
+------------[F] : TF1.java size: 0.00034332 mb
+------------[F] : Thr.java size: 0.00043011 mb
+------------[F] : ThrowsException.java size: 0.00042439 mb
+------------[D] : tryWithRes
+--------------[F] : Run.java size: 0.00032997 mb
+--------------[F] : TestTWR.java size: 0.00033474 mb
+------------[D] : validator
+--------------[F] : Main.java size: 0.00113297 mb
+--------------[F] : User.java size: 0.00143909 mb
+--------------[F] : UserValidator.java size: 0.00121021 mb
+--------------[D] : exceptions
+----------------[F] : AgeException.java size: 0.00027275 mb
+----------------[F] : EmailException.java size: 0.00017738 mb
+----------------[F] : PhoneValidationException.java size: 0.00019550 mb
+----------[D] : hw
+------------[F] : Capcha size: 0.00080204 mb
+------------[F] : Collection.txt size: 0.00083828 mb
+--------[D] : cw_09
+----------[F] : ALvsLL.java size: 0.00150108 mb
+----------[F] : ALvsLLadd.java size: 0.00137043 mb
+----------[F] : ALvsLLaddLast.java size: 0.00118446 mb
+----------[F] : ColleMain.java size: 0.00076962 mb
+----------[F] : Iterator.java size: 0.00104141 mb
+----------[F] : LIstOf.java size: 0.00038147 mb
+----------[F] : ModCollection.java size: 0.00072193 mb
+----------[F] : Randomiser.java size: 0.00018024 mb
+----------[F] : arvsll size: 0.00014305 mb
+----------[D] : alCustom
+------------[F] : Collection.java size: 0.00031090 mb
+------------[F] : CollectionImpl.java size: 0.00211716 mb
+------------[F] : Main.java size: 0.00159168 mb
+------------[F] : MyCollectionImpl.java size: 0.00193977 mb
+------------[F] : img.png size: 0.10686302 mb
+----------[D] : coll
+------------[F] : AL.java size: 0.00108337 mb
+------------[F] : ALinit.java size: 0.00078011 mb
+------------[F] : ALsetValues.java size: 0.00158501 mb
+------------[F] : ALvsLL.java size: 0.00136280 mb
+------------[F] : ArrCopy.java size: 0.00117588 mb
+------------[F] : Count.java size: 0.00022507 mb
+------------[F] : Entry.java size: 0.00061321 mb
+------------[F] : LL.java size: 0.00045300 mb
+------------[F] : LLex.java size: 0.00091743 mb
+------------[F] : ListCenterCalcaulate.java size: 0.00071430 mb
+------------[F] : Main.java size: 0.00058556 mb
+------------[F] : Mass.java size: 0.00009632 mb
+------------[F] : Queue.java size: 0.00050640 mb
+------------[F] : SysArrayCopy.java size: 0.00146770 mb
+----------[D] : ex
+------------[F] : Bonus.java size: 0.00021839 mb
+------------[F] : Bonus1.java size: 0.00079441 mb
+------------[F] : Ex1.java size: 0.00027657 mb
+------------[F] : Ex2.java size: 0.00021267 mb
+------------[F] : Ex3.java size: 0.00054455 mb
+------------[F] : Ex4.java size: 0.00042057 mb
+------------[F] : Ex5.java size: 0.00043297 mb
+--------[D] : cw_10
+----------[F] : CalculateBucket size: 0.00036335 mb
+----------[F] : HM.java size: 0.00109673 mb
+----------[F] : HMExp.java size: 0.00043297 mb
+----------[F] : HMImmutableKey.java size: 0.00124741 mb
+----------[F] : HashEx.java size: 0.00178051 mb
+----------[F] : HashMapEx.java size: 0.00162220 mb
+----------[F] : HashMapExample.java size: 0.00112247 mb
+----------[F] : RemoveFromCollection.java size: 0.00209522 mb
+----------[F] : SetEx.java size: 0.00111294 mb
+----------[F] : SetPeres.java size: 0.00094318 mb
+----------[F] : StackExample.java size: 0.00067711 mb
+----------[F] : TestHM.java size: 0.00095749 mb
+----------[F] : TreeMapExample.java size: 0.00070953 mb
+----------[F] : UniqueColl.java size: 0.00045681 mb
+----------[F] : UserSet.java size: 0.00135994 mb
+----------[F] : task.txt size: 0.00216961 mb
+----------[D] : CharC
+------------[F] : CharCount.java size: 0.00094891 mb
+------------[F] : Text.java size: 0.00624561 mb
+----------[D] : charCount
+------------[F] : Letter.java size: 0.00126743 mb
+------------[F] : RunCount.java size: 0.00067043 mb
+------------[F] : Text.java size: 0.00624943 mb
+------------[D] : service
+--------------[F] : CountService.java size: 0.00032997 mb
+--------------[F] : CountServiceImpl.java size: 0.00155735 mb
+----------[D] : countChar
+------------[F] : CharCount.java size: 0.00060177 mb
+------------[F] : Text.java size: 0.00624943 mb
+----------[D] : ex
+------------[F] : Bonus.java size: 0.00030422 mb
+------------[F] : EX1.java size: 0.00035000 mb
+------------[F] : EX2.java size: 0.00044918 mb
+------------[F] : EX3.java size: 0.00042725 mb
+------------[F] : EX4.java size: 0.00066376 mb
+------------[F] : EX5.java size: 0.00043106 mb
+----------[D] : task
+------------[F] : task1.java size: 0.00071716 mb
+------------[F] : task2.java size: 0.00095177 mb
+------------[F] : task3.java size: 0.00075340 mb
+------------[F] : task4.java size: 0.00118351 mb
+------------[F] : task5.java size: 0.00072956 mb
+--------[D] : cw_11
+----------[F] : DirStructure.java size: 0.00057793 mb
+----------[F] : DirectoryWatcher.java size: 0.00142193 mb
+----------[F] : Dirs.java size: 0.00056934 mb
+----------[F] : FileNameGenerator.java size: 0.00133896 mb
+----------[F] : FileParent.java size: 0.00035763 mb
+----------[F] : FilesDir.java size: 0.00274277 mb
+----------[F] : FolderStructure.java size: 0.00112724 mb
+----------[F] : FolderStructureTask.java size: 0.00224304 mb
+----------[F] : FolderStructureTest.java size: 0.00111008 mb
+----------[F] : GetAbsPath.java size: 0.00022125 mb
+----------[F] : OssDetector.java size: 0.00109577 mb
+----------[F] : ScannerExample.java size: 0.00100517 mb
+----------[D] : ex
+------------[F] : Ex1.java size: 0.00028706 mb
+------------[F] : Ex2.java size: 0.00022602 mb
+------------[F] : Ex3.java size: 0.00033855 mb
+------------[F] : Ex4.java size: 0.00056267 mb
+------------[F] : Ex5.java size: 0.00073242 mb
+------------[F] : StrToInt.java size: 0.00024891 mb
+----------[D] : file
+------------[D] : walk
+--------------[F] : FileWalk.java size: 0.00048542 mb
+----------[D] : file_duplicate
+------------[F] : CRC.java size: 0.00054264 mb
+------------[F] : FileDuplicateTask.md size: 0.00186157 mb
+------------[F] : findFileDuplicate.md size: 0.00415325 mb
+----------[D] : files
+----------[D] : folders
+------------[F] : FolderSeparator.java size: 0.00052261 mb
+------------[F] : MakeDir.java size: 0.00371838 mb
+------------[D] : dir1
+--------------[F] : test.txt size: 0.00E-6 mb
+--------------[D] : dir2
+----------------[D] : dir3
+------------------[D] : dir4
+------------[D] : dir7
+----------[D] : io
+------------[F] : DirList.java size: 0.00051498 mb
+------------[F] : InputParms.java size: 0.00034809 mb
+------------[F] : Main.java size: 0.00028515 mb
+------------[F] : Sc.java size: 0.00033283 mb
+------------[F] : ScannerDouble.java size: 0.00039482 mb
+------------[F] : ScannerInt.java size: 0.00047970 mb
+------------[F] : ScannerLine.java size: 0.00051308 mb
+------------[F] : ScannerTest.java size: 0.00036430 mb
+------------[F] : SystemOut.java size: 0.00017166 mb
+------------[D] : FileStream
+--------------[F] : FileOutputStreamm.java size: 0.00056839 mb
+--------------[F] : FileStream.java size: 0.00106812 mb
+--------------[F] : input.txt size: 0.00018787 mb
+--------------[F] : out.txt size: 0.00026703 mb
+--------------[F] : output.txt size: 0.00001812 mb
+------------[D] : byteSteram
+--------------[F] : ByteStream.java size: 0.00123978 mb
+--------------[F] : input.txt size: 0.00001907 mb
+--------------[F] : output.txt size: 0.00001907 mb
+--------------[F] : plain.png size: 0.02868843 mb
+--------------[F] : plane_copy.png size: 0.02868843 mb
+------------[D] : charStream
+--------------[F] : CharStream.java size: 0.00138760 mb
+--------------[F] : input.txt size: 0.00003624 mb
+--------------[F] : output.txt size: 0.00003624 mb
