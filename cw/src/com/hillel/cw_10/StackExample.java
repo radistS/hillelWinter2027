@@ -17,7 +17,7 @@ public class StackExample {
 
         System.out.println("pop value : " + stack.pop());
         System.out.println("stack size : " + stack.size());
-        System.out.println("stack size : " + stack.getFirst());
-        System.out.println("stack size : " + stack.getLast());}
-
+//        System.out.println("stack size : " + stack.getFirst());
+//        System.out.println("stack size : " + stack.getLast());}
+    }
 }

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hillel.tests.TestClazz
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.018 s -- in com.hillel.tests.TestClazz

@@ -18,7 +18,7 @@ public class StrBuilder {
 //        sb.setLength(4);
 //        System.out.println(sb.toString());
 
-        sb.repeat("aaaa", 6);
+//        sb.repeat("aaaa", 6);
         System.out.println(sb);
     }
 }

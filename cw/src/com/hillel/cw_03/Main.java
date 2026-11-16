@@ -19,14 +19,7 @@ public class Main {
     }
 
    private static String describe(Object obj) {
-        return switch (obj) {
-            case Short s -> "Short: " + s;
-            case Integer i -> "Integer: " + i;
-            case String s -> "String: " + s;
-            case Double d -> "Double: " + d;
-            case Boolean b -> "Boolean: " + b;
-            default -> "Unknown type";
-        };
+        return null;
    }
 
 

@@ -2,7 +2,6 @@ package com.hillel.cw_12.ex;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Gatherer.Integrator;
 
 public class Ex4 {
     public static void main(String[] args) {
